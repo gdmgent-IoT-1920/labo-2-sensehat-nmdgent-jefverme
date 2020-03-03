@@ -3,7 +3,6 @@ import time
 import random
 
 s = SenseHat()
-s.low_light = True
 
 G = (0, 255, 0)
 Y = (255, 255, 0)
